@@ -1,0 +1,17 @@
+{
+  "name": "login-signup-page-main",
+  "version": "1.0.0",
+  "description": "This repository contains an Android app developed in Kotlin that demonstrates user authentication with Firebase. The app features:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.5"
+  }
+}

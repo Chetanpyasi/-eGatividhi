@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#555555</color>
+    <color name="red">#FF0000</color>
+    <color name="primary">#6200EA</color>
+    <color name="primaryDark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+    <color name="lightGray">#F5F5F5</color>
+    <color name="lightGray1">#f0f1f2</color> <!-- Corrected line -->
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="gray">#808080</color>
+    <color name="sky">#F8F8FF</color>
+
+
+    <!-- Extended Colors -->
+    <color name="orange">#FFA500</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="brown">#A52A2A</color>
+    <color name="lime">#00FF00</color>
+    <color name="indigo">#4B0082</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal">#008080</color>
+    <color name="navy">#000080</color>
+
+    <!-- Shades of Red -->
+    <color name="light_red">#FF6666</color>
+    <color name="dark_red">#8B0000</color>
+
+    <!-- Shades of Green -->
+    <color name="light_green">#90EE90</color>
+    <color name="dark_green">#006400</color>
+
+    <!-- Shades of Blue -->
+    <color name="light_blue">#ADD8E6</color>
+    <color name="dark_blue">#00008B</color>
+
+    <!-- Shades of Yellow -->
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="dark_yellow">#9B870C</color>
+
+    <!-- Shades of Purple -->
+    <color name="light_purple">#D8BFD8</color>
+    <color name="dark_purple">#301934</color>
+
+    <!-- Shades of Orange -->
+    <color name="light_orange">#FFDAB9</color>
+    <color name="dark_orange">#FF8C00</color>
+</resources>
