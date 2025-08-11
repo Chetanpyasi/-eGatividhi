@@ -1,4 +1,4 @@
-# Login Signup Page (Android App)
+# eGatividhi (Android App)
 
 This is a simple Android application implementing a **Login/Signup** flow. It includes multiple user roles, form validation, UI components, and backend integration points.
 
